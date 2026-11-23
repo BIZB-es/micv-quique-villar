@@ -23,9 +23,9 @@ Desde BIZB acompaño a organizaciones en diagnóstico, dirección y transformaci
 
 **Misiones relevantes**
 - **Gobierno estratégico con OKRs y Jira.** Implantación de un modelo de seguimiento de objetivos e iniciativas en BIZB. [Más información](https://entropyme.biz/cv-quique-villar-thinkia/mision-bizb-okrs-jira/).
-- **BASE100 · Evolución del entorno Atlassian.** Diagnóstico AS-IS, diseño TO-BE y hoja de ruta que el propio cliente está implementando. [Más información](https://entropyme.biz/cv-quique-villar-thinkia/mision-base100-atlassian/).
-- **EQUIPSA · Cerebro Empresarial.** Implantación de un motor de conocimiento corporativo para consumo humano e IA, basado en RAW/WIKI/SCHEMA e integrado con herramientas del cliente. [Más información](https://entropyme.biz/cv-quique-villar-thinkia/mision-equipsa-cerebro-empresarial/).
-- **TyP / templus · Customer Satisfaction Center.** Consultoría y propuesta de evolución de coordinación y seguimiento para operación 24×7. [Más información](https://entropyme.biz/cv-quique-villar-thinkia/mision-typ-csc-2026/).
+- **Transformación del entorno Atlassian.** Diagnóstico AS-IS, diseño TO-BE y hoja de ruta que el propio cliente está implementando. [Más información](https://entropyme.biz/cv-quique-villar-thinkia/mision-base100-atlassian/).
+- **Cerebro Empresarial · Conocimiento para personas e IA.** Implantación de un motor de conocimiento corporativo para consumo humano e IA, basado en RAW/WIKI/SCHEMA e integrado con herramientas del cliente. [Más información](https://entropyme.biz/cv-quique-villar-thinkia/mision-equipsa-cerebro-empresarial/).
+- **Evolución operativa de un Customer Satisfaction Center 24×7.** Consultoría y propuesta de evolución de coordinación y seguimiento para operación 24×7. [Más información](https://entropyme.biz/cv-quique-villar-thinkia/mision-typ-csc-2026/).
 
 ### Vector ITC Group · Director de Sector Público | 2010–2016
 Dirigí desarrollo comercial, P&L, equipos y proyectos tecnológicos para administraciones públicas. El negocio pasó de unos **300.000 € anuales a 4 millones de euros recurrentes** y superó **15 clientes institucionales**.
@@ -39,6 +39,17 @@ Desarrollé responsabilidades en dirección de negocio y servicios tecnológicos
 
 **Misión relevante**
 - **Oficina de Calidad del INSS.** Normalización, análisis y automatización de la calidad de software con iniciativas vinculadas a ANACONDA y ANACNORM. [Más información](https://entropyme.biz/cv-quique-villar-thinkia/mision-atos-oficina-calidad-inss/).
+
+## Herramientas y entornos
+
+- **IA y conocimiento corporativo:** ChatGPT y agentes, NotebookLM, Obsidian, Google Drive, ingeniería de contexto y arquitecturas RAW / WIKI / SCHEMA.
+- **Gobierno y colaboración:** Jira, Confluence, ecosistema Atlassian, OKRs y seguimiento de iniciativas.
+- **Publicación y versionado:** WordPress, Markdown y GitHub.
+
+## Publicaciones
+
+- [Mis publicaciones](https://entropyme.biz/cv-quique-villar-thinkia/mis-publicaciones/).
+- [Cerebro Empresarial: ¿dónde guarda tu empresa lo que sabe?](https://bizb.ghost.io/cerebro-empresarial-donde-guarda-tu-empresa-lo-que-sabe/).
 
 ## Formación
 - ESIC / UPM — Máster en Dirección de Proyectos (2007–2008).
