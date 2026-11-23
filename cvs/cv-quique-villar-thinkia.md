@@ -1,35 +1,44 @@
 # Quique Villar Parra
-**AI Governance & PMO | Dirección de negocio, gobierno de portfolios y transformación con IA**
+**Dirección de negocio · Gobierno de IA · Transformación empresarial**
 
-Contacto: quique@bizb.es · (+34) 675 60 29 77 · LinkedIn: enriquevillarbusinessleader
+**Contacto:** quique@bizb.es · (+34) 675 60 29 77 · [LinkedIn](https://www.linkedin.com/in/enriquevillarbusinessleader/)
 
-## Perfil
-Directivo y consultor con más de 25 años conectando negocio y tecnología. He dirigido unidades de negocio, equipos y proyectos complejos, con responsabilidad económica y orientación a resultados. Aporto a la AI Office de Thinkia para Unidad Editorial experiencia en gobierno de demanda y portfolio, coordinación transversal, control económico, adopción y medición del valor, respetando el modelo operativo y las responsabilidades definidas por Thinkia.
+## Perfil profesional
 
-## Capacidades para la AI Office
-- **Demanda y portfolio:** circuito de peticiones, evaluación y priorización, roadmap, dependencias y preparación de comités.
-- **Medición y control:** P&L, presupuestos, licencias, indicadores de uso, eficiencia, adopción y valor generado.
-- **Coordinación transversal:** conexión entre negocio, redacción, especialistas de IA, proveedores y dirección del programa.
-- **Calidad y aprendizaje:** monitorización del uso real de soluciones de IA, identificación de patrones, errores y buenas prácticas; validación y formalización de aprendizajes como conocimiento y Kits reutilizables.
-- **Adopción y transferencia:** seguimiento de la incorporación de soluciones al trabajo cotidiano y extensión progresiva entre equipos y cabeceras.
+Soy un directivo y consultor con más de 25 años de experiencia conectando negocio y tecnología. He dirigido unidades de negocio y equipos, asumido responsabilidad económica y desarrollado proyectos de transformación y mejora de servicios complejos. Mi trabajo combina visión empresarial, coordinación de personas, calidad de ejecución y uso pragmático de la inteligencia artificial para construir capacidades organizativas sostenibles.
+
+## Fortalezas profesionales
+
+1. **Dirección de negocio y responsabilidad económica.** Experiencia en desarrollo comercial, gestión de P&L, negociación y crecimiento sostenido de actividades tecnológicas.
+2. **Gobierno de iniciativas y portfolios.** Capacidad para convertir prioridades en objetivos, responsabilidades, roadmaps, mecanismos de seguimiento y decisiones fundamentadas.
+3. **Conexión entre negocio y tecnología.** Interlocución con dirección, usuarios, especialistas, proveedores y equipos multidisciplinares en entornos complejos.
+4. **Transformación y ejecución.** Diagnóstico de situaciones de partida, diseño de modelos objetivo y acompañamiento a la evolución de procesos, herramientas y capacidades.
+5. **IA empresarial y gestión del conocimiento.** Diseño de arquitecturas de conocimiento e ingeniería de contexto para facilitar el consumo gobernado de información por personas y sistemas de IA.
+6. **Calidad, medición y aprendizaje continuo.** Experiencia en aseguramiento de calidad y evaluación. Interés práctico por convertir el uso real de sistemas de IA en aprendizajes validados y conocimiento reutilizable.
 
 ## Experiencia profesional
-### BIZB | Dirección y consultoría de transformación · 2016–actualidad
-Dirección y consultoría para diagnosticar oportunidades, diseñar soluciones y acompañar la ejecución. Incorporación de arquitecturas de conocimiento, ingeniería de contexto y soluciones de IA empresarial.
 
-- **Gobierno con OKRs:** implantación de un modelo de objetivos y resultados clave apoyado en Jira, vinculando prioridades, iniciativas y revisiones periódicas.
-- **BASE100:** diagnóstico AS-IS, diseño TO-BE y hoja de ruta de transformación del entorno Atlassian. El cliente está implementando la propuesta con sus capacidades internas.
-- **EQUIPSA:** diseño e implantación de un Cerebro Empresarial de consumo híbrido humano + IA. Arquitectura RAW/WIKI/SCHEMA; Google Drive, Obsidian conectado con agentes de ChatGPT, NotebookLM y agente de curación y calidad. Conocimiento gobernado por el cliente en sus propias herramientas.
-- **TyP / templus (2026):** propuesta presentada para evolucionar la coordinación de un Customer Satisfaction Center 24×7: turnos, disponibilidad, indicadores y continuidad del servicio.
+### BIZB · Dirección y consultoría de transformación | 2016–actualidad
+Desde BIZB acompaño a organizaciones en diagnóstico, dirección y transformación, combinando estrategia, procesos, tecnología y ejecución. En los últimos años he incorporado IA empresarial, ingeniería de contexto y conocimiento corporativo como capacidades transversales.
 
-### Vector ITC Group | Director de Sector Público · 2010–2016
-Dirección comercial, P&L, equipos, clientes institucionales y proyectos tecnológicos. Crecimiento de unos 300.000 € anuales a 4 millones de euros recurrentes, con más de 15 clientes. Apertura del negocio de tecnología electoral mediante estrategia comercial y alianzas, obteniendo adjudicaciones en un mercado históricamente dominado por Indra.
+**Misiones relevantes**
+- **Gobierno estratégico con OKRs y Jira.** Implantación de un modelo de seguimiento de objetivos e iniciativas en BIZB. [Más información](https://entropyme.biz/cv-quique-villar-thinkia/mision-bizb-okrs-jira/).
+- **BASE100 · Evolución del entorno Atlassian.** Diagnóstico AS-IS, diseño TO-BE y hoja de ruta que el propio cliente está implementando. [Más información](https://entropyme.biz/cv-quique-villar-thinkia/mision-base100-atlassian/).
+- **EQUIPSA · Cerebro Empresarial.** Implantación de un motor de conocimiento corporativo para consumo humano e IA, basado en RAW/WIKI/SCHEMA e integrado con herramientas del cliente. [Más información](https://entropyme.biz/cv-quique-villar-thinkia/mision-equipsa-cerebro-empresarial/).
+- **TyP / templus · Customer Satisfaction Center.** Consultoría y propuesta de evolución de coordinación y seguimiento para operación 24×7. [Más información](https://entropyme.biz/cv-quique-villar-thinkia/mision-typ-csc-2026/).
 
-### Atos Origin / Atos | Dirección de negocio y aseguramiento de calidad · 1999–2010
-Dirección de negocio y servicios tecnológicos para administraciones públicas. Ingeniería y aseguramiento de calidad de software, incluyendo la Oficina de Calidad del INSS, normalización, automatización y control con ANACONDA y ANACNORM. Experiencia aplicable a criterios de aceptación, evaluación y mejora continua de soluciones de IA.
+### Vector ITC Group · Director de Sector Público | 2010–2016
+Dirigí desarrollo comercial, P&L, equipos y proyectos tecnológicos para administraciones públicas. El negocio pasó de unos **300.000 € anuales a 4 millones de euros recurrentes** y superó **15 clientes institucionales**.
 
-## Propuesta de valor para Thinkia
-Integrarme en el modelo de AI Office de Thinkia y contribuir a su funcionamiento efectivo: portfolio gobernado, decisiones informadas, coordinación sin fricciones y resultados medibles. Convertir la experiencia real de uso de IA en aprendizaje validado y conocimiento reutilizable para otros equipos.
+**Misiones relevantes**
+- **Crecimiento del negocio público.** Dirección de resultados, cuentas, alianzas, equipos y capacidad de ejecución. [Más información](https://entropyme.biz/cv-quique-villar-thinkia/mision-vector-crecimiento-sector-publico/).
+- **Apertura del negocio de tecnología electoral.** Estrategia comercial y alianzas que permitieron competir y obtener adjudicaciones. [Más información](https://entropyme.biz/cv-quique-villar-thinkia/mision-vector-tecnologia-electoral/).
+
+### Atos Origin / Atos · Dirección de negocio y calidad | 1999–2010
+Desarrollé responsabilidades en dirección de negocio y servicios tecnológicos para administraciones públicas, con gestión económica, coordinación de equipos y proyectos de aseguramiento de calidad.
+
+**Misión relevante**
+- **Oficina de Calidad del INSS.** Normalización, análisis y automatización de la calidad de software con iniciativas vinculadas a ANACONDA y ANACNORM. [Más información](https://entropyme.biz/cv-quique-villar-thinkia/mision-atos-oficina-calidad-inss/).
 
 ## Formación
 - ESIC / UPM — Máster en Dirección de Proyectos (2007–2008).
