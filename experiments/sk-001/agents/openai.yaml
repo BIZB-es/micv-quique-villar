@@ -1,0 +1,4 @@
+interface:
+  display_name: "MiCV Candidatura Sync"
+  short_description: "Sincronización MiCV en seco, con PDF y QA"
+  default_prompt: "Genera y valida candidatos MiCV sin publicar, con manifest y checkpoint."
