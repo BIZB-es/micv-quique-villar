@@ -42,7 +42,7 @@ Desarrollé responsabilidades en dirección de negocio y servicios tecnológicos
 
 ## Herramientas y entornos
 
-- **IA y conocimiento corporativo:** ChatGPT y agentes, NotebookLM, Obsidian, Google Drive, ingeniería de contexto y arquitecturas RAW / WIKI / SCHEMA.
+- **IA y conocimiento corporativo:** ChatGPT y agentes, Claude Code, Perplexity, NotebookLM, Obsidian, Google Drive, ingeniería de contexto y arquitecturas RAW / WIKI / SCHEMA.
 - **Gobierno y colaboración:** Jira, Confluence, ecosistema Atlassian, OKRs y seguimiento de iniciativas.
 - **Publicación y versionado:** WordPress, Markdown y GitHub.
 
