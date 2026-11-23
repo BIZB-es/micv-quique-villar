@@ -1,0 +1,56 @@
+{
+  "run_id": "E-001-THINKIA-20261124",
+  "status": "PASS",
+  "checks": {
+    "six_strengths": {
+      "pass": true,
+      "actual": 6,
+      "expected": 6
+    },
+    "seven_missions": {
+      "pass": true,
+      "actual": 7,
+      "expected": 7
+    },
+    "tool_inventory": {
+      "pass": true,
+      "expected": [
+        "Claude Code",
+        "Perplexity",
+        "Obsidian"
+      ]
+    },
+    "anonymous_client_names": {
+      "pass": true
+    },
+    "legacy_client_names_in_urls": {
+      "pass": true,
+      "warning": [
+        "https://entropyme.biz/cv-quique-villar-thinkia/mision-base100-atlassian/",
+        "https://entropyme.biz/cv-quique-villar-thinkia/mision-equipsa-cerebro-empresarial/"
+      ]
+    },
+    "source_links": {
+      "pass": true,
+      "count": 10
+    },
+    "required_link_hosts": {
+      "pass": true
+    },
+    "human_gate": {
+      "pass": true
+    },
+    "pdf_readable": {
+      "pass": true,
+      "pages": 2
+    },
+    "candidate_no_publish": {
+      "pass": true
+    }
+  },
+  "warnings": [
+    "Enlaces validados sintácticamente, no por HTTP",
+    "Comparación automática con WordPress pendiente",
+    "Slugs históricos muestran nombres de cliente"
+  ]
+}
