@@ -5,27 +5,29 @@
 
 ## Perfil profesional
 
-Soy un directivo y consultor con más de 25 años de experiencia conectando negocio y tecnología. He dirigido unidades de negocio y equipos, asumido responsabilidad económica y desarrollado proyectos de transformación y mejora de servicios complejos. Mi trabajo combina visión empresarial, coordinación de personas, calidad de ejecución y uso pragmático de la inteligencia artificial para construir capacidades organizativas sostenibles.
+Directivo y consultor con más de 25 años de experiencia en la intersección del negocio con la tecnología, he dirigido unidades, equipos y proyectos complejos que reunían responsabilidad económica, interlocución con clientes y capacidad de ejecución.
 
-## Fortalezas profesionales
+Entiendo la inteligencia artificial como una oportunidad para ampliar las capacidades de las organizaciones, mejorar sus formas de trabajar y desarrollar nuevos servicios. Me especializo en convertir esas posibilidades en iniciativas viables y resultados verificables con visión empresarial, conocimiento tecnológico y pragmatismo.
 
-1. **Dirección de negocio y responsabilidad económica.** Experiencia en desarrollo comercial, gestión de P&L, negociación y crecimiento sostenido de actividades tecnológicas.
-2. **Gobierno de iniciativas y portfolios.** Capacidad para convertir prioridades en objetivos, responsabilidades, roadmaps, mecanismos de seguimiento y decisiones fundamentadas.
-3. **Conexión entre negocio y tecnología.** Interlocución con dirección, usuarios, especialistas, proveedores y equipos multidisciplinares en entornos complejos.
-4. **Transformación y ejecución.** Diagnóstico de situaciones de partida, diseño de modelos objetivo y acompañamiento a la evolución de procesos, herramientas y capacidades.
-5. **IA empresarial y gestión del conocimiento.** Diseño de arquitecturas de conocimiento e ingeniería de contexto para facilitar el consumo gobernado de información por personas y sistemas de IA.
-6. **Calidad, medición y aprendizaje continuo.** Experiencia en aseguramiento de calidad y evaluación. Interés práctico por convertir el uso real de sistemas de IA en aprendizajes validados y conocimiento reutilizable.
+## Fortalezas
+
+1. **Dirección de negocio y responsabilidad económica.** Experiencia en desarrollo comercial, gestión de cuentas de resultados (P&L), negociación, alianzas y crecimiento sostenido de negocios tecnológicos.
+2. **Gobierno de iniciativas.** Capacidad para conectar prioridades estratégicas con objetivos, responsabilidades, roadmaps y mecanismos de seguimiento útiles para la toma de decisiones.
+3. **Conexión entre negocio y tecnología.** Interlocución fluida con dirección, clientes, usuarios, especialistas, proveedores y equipos para convertir las necesidades en actuaciones viables.
+4. **Transformación y ejecución.** Diagnóstico de situaciones de partida, diseño de modelos-objetivo y evolución de procesos, herramientas y capacidades.
+5. **IA empresarial y conocimiento corporativo.** Diseño de arquitecturas de conocimiento e ingeniería de contexto para facilitar el aprovechamiento gobernado de información por personas y sistemas de IA.
+6. **Calidad, medición y aprendizaje continuo.** Trayectoria en aseguramiento de calidad, validación y evaluación. Sólida capacidad de identificar los patrones del uso real de soluciones de la IA y de formalizar el aprendizaje en conocimiento reutilizable.
 
 ## Experiencia profesional
 
 ### BIZB · Dirección y consultoría de transformación | 2016–actualidad
-Desde BIZB acompaño a organizaciones en diagnóstico, dirección y transformación, combinando estrategia, procesos, tecnología y ejecución. En los últimos años he incorporado IA empresarial, ingeniería de contexto y conocimiento corporativo como capacidades transversales.
+En BIZB, desarrollo proyectos de dirección, diagnóstico y transformación empresarial, desde la estrategia y los procesos a la tecnología y el acompañamiento en la ejecución. En los últimos años he incorporado la ingeniería de contexto y la gestión del conocimiento con IA como capacidades transversales.
 
 **Misiones relevantes**
-- **Gobierno estratégico con OKRs y Jira.** Implantación de un modelo de seguimiento de objetivos e iniciativas en BIZB. [Más información](https://entropyme.biz/cv-quique-villar-thinkia/mision-bizb-okrs-jira/).
-- **Transformación del entorno Atlassian.** Diagnóstico AS-IS, diseño TO-BE y hoja de ruta que el propio cliente está implementando. [Más información](https://entropyme.biz/cv-quique-villar-thinkia/mision-base100-atlassian/).
-- **Cerebro Empresarial · Conocimiento para personas e IA.** Implantación de un motor de conocimiento corporativo para consumo humano e IA, basado en RAW/WIKI/SCHEMA e integrado con herramientas del cliente. [Más información](https://entropyme.biz/cv-quique-villar-thinkia/mision-equipsa-cerebro-empresarial/).
-- **Evolución operativa de un Customer Satisfaction Center 24×7.** Consultoría y propuesta de evolución de coordinación y seguimiento para operación 24×7. [Más información](https://entropyme.biz/cv-quique-villar-thinkia/mision-typ-csc-2026/).
+- **Gobierno estratégico mediante OKRs y Jira.** Modelo de gestión para relacionar objetivos, iniciativas y resultados. [Más información](https://entropyme.biz/cv-quique-villar-thinkia/mision-bizb-okrs-jira/).
+- **Transformación del entorno Atlassian.** Diagnóstico AS-IS, modelo TO-BE y hoja de ruta para la evolución del gobierno de herramientas y procesos. [Más información](https://entropyme.biz/cv-quique-villar-thinkia/mision-base100-atlassian/).
+- **Cerebro Empresarial · Conocimiento corporativo para personas e IA.** Motor de conocimiento corporativo para consumo humano y de IA, implantado en el entorno del cliente. [Más información](https://entropyme.biz/cv-quique-villar-thinkia/mision-equipsa-cerebro-empresarial/).
+- **Evolución operativa de un Customer Satisfaction Center 24×7.** Consultoría y propuesta de evolución de coordinación, planificación e indicadores operativos. [Más información](https://entropyme.biz/cv-quique-villar-thinkia/mision-typ-csc-2026/).
 
 ### Vector ITC Group · Director de Sector Público | 2010–2016
 Dirigí desarrollo comercial, P&L, equipos y proyectos tecnológicos para administraciones públicas. El negocio pasó de unos **300.000 € anuales a 4 millones de euros recurrentes** y superó **15 clientes institucionales**.
